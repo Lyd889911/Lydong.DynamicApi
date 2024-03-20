@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lydong.DynamicApi", "Lydong.DynamicApi\Lydong.DynamicApi.csproj", "{670C894F-0D72-4825-87C2-75624133898B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApi", "TestWebApi\TestWebApi.csproj", "{256D730A-89F1-4CBA-B9F7-261BF184950B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670C894F-0D72-4825-87C2-75624133898B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670C894F-0D72-4825-87C2-75624133898B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670C894F-0D72-4825-87C2-75624133898B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670C894F-0D72-4825-87C2-75624133898B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256D730A-89F1-4CBA-B9F7-261BF184950B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256D730A-89F1-4CBA-B9F7-261BF184950B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256D730A-89F1-4CBA-B9F7-261BF184950B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256D730A-89F1-4CBA-B9F7-261BF184950B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B360108C-8F52-42A1-A9D2-1DB10B133C4D}
+	EndGlobalSection
+EndGlobal
